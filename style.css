@@ -1,0 +1,48 @@
+body{
+   background: linear-gradient(90deg, rgba(234,233,255,1) 0%, rgba(252,167,213,1) 35%, rgba(194,245,255,1) 100%);
+}
+/*List of Task*/
+h1{
+  color:red;
+  margin-top:120px;
+  text-align: center;
+  font-size:60px;
+  font-family: "Gill Sans", sans-serif;
+
+}
+/*Tasks*/
+.to-dos{
+   text-align:center;
+   font-size:30px;
+   color:#66b3ff;
+
+}
+/*input and button*/
+.info{
+    text-align:center;
+}
+/*input*/
+input[type="text"]
+{
+    width: 200px;
+    height:25px;
+    border-radius:5%;
+
+}
+/*button*/
+button{
+
+    width: 50px;
+    height:32px;
+    border-radius:20%;
+    color:#03a5fc;
+
+}
+
+
+
+
+
+
+
+
